@@ -18,5 +18,3 @@ Predict future stock prices using historical stock market data.
 This project uses a Linear Regression model to predict future stock prices based on historical Apple stock data.  
 The workflow includes data preprocessing, feature scaling, model training, evaluation, and visualization.
 
-**Project Folder**
-stock-price-prediction/
