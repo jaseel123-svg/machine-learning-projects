@@ -19,3 +19,4 @@ This project uses a Linear Regression model to predict future stock prices based
 The workflow includes data preprocessing, feature scaling, model training, evaluation, and visualization.
 
 **Project Folder**
+stock-price-prediction/
